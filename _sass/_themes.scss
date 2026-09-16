@@ -1,0 +1,25 @@
+/* _sass/_themes.scss */
+
+/*******************************************************************************
+ * Light Mode Palette
+ ******************************************************************************/
+:root {
+  --global-bg-color: #ffffff;
+  --global-text-color: #000000;
+
+  /* Your Light Mode Accent Colors */
+  --global-theme-color: #c100f6; /* e.g., Forest Green */
+  --global-hover-color: #6a1b9a; /* Darker green on hover */
+}
+
+/*******************************************************************************
+ * Dark Mode Palette
+ ******************************************************************************/
+html[data-theme='dark'] {
+  --global-bg-color: #121212;
+  --global-text-color: #ffffff;
+
+  /* Your Dark Mode Accent Colors (brighter/higher contrast for dark backgrounds) */
+  --global-theme-color: #0bd61c; /* e.g., Lighter Sage Green */
+  --global-hover-color: #22725a; /* Lighter hover color */
+}

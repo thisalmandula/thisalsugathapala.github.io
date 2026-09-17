@@ -136,8 +136,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Origin Unknown # blog_name will be displayed in your blog page
+blog_description: Welcome to my personal blog
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
@@ -444,7 +444,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800
@@ -702,7 +702,7 @@ jsonresume:
   - basics
   - work
   - education
-  - publications
+  - "conferences and seminars"
   - projects
   - volunteer
   - awards

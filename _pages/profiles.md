@@ -1,28 +1,46 @@
 ---
-layout: profiles
-permalink: /people/
+layout: page
 title: people
-description: members of the lab or group
+permalink: /people/
+description: Former and current collaborators and research group members.
 nav: true
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+### Fluid Dynamics
+
+* **[Gaetano Sardina](https://www.chalmers.se/en/persons/sardina/)** (Chalmers University of Technology)
+* **[Rickard Bensow](https://www.chalmers.se/en/persons/ribe/)** (Chalmers University of Technology)
+* **[Luca Brandt](https://www.polito.it/en/staff?p=106232#profilo)** (Politechnico di Torino)
+* **[Arezoo Ardekani](https://engineering.purdue.edu/ComplexFlowLab)** (Purdue University)
+* **[Rishabh More](https://www.monash.edu/engineering/rishabhmore)** (Monash University)
+* **[Twan Bakker](https://liu.se/en/employee/twaba15)** (Linköping University)
+* **[Magnus Andersson](https://liu.se/en/employee/magan68)** (Linköping University)
+* Peter Ekman (GM Motorsport)
+* Torbjörn Virdung (Volvo Cars)
+* Johan Forsgren (Volvo Trucks)
+
+
+---
+
+### Marine & Environmental Sciences
+
+* **[Ida-Maja Hassellöv](https://www.chalmers.se/en/persons/idamaja/)** (Chalmers University of Technology)
+* **[Martin Hassellöv](https://www.gu.se/en/about/find-staff/martinhassellov)** (University of Gothenburg)
+* **[Karin Mattsson](https://www.gu.se/om-universitetet/hitta-person/karinmattsson)** (University of Gothenburg)
+* Amanda Nylund (Swedish Meteorological and Hydrological Institute)
+
+
+---
+
+### Physical Oceanography
+* **[Lars Arneborg](https://www.smhi.se/forskning/om-oss/medarbetare/sok-medarbetare/lars-arneborg)** (Swedish Meteorological and Hydrological Institute)
+* **[Sandra-Esther Brunnabend](https://www.smhi.se/en/research/our-team/search-for-employees/sandra-esther-brunnabendv)** (Swedish Meteorological and Hydrological Institute)
+* **[Daniele Iudicone](https://www.smhi.se/en/research/our-team/search-for-employees/sandra-esther-brunnabendv)** (Stazione Zoologica Anton Dohrn)
+* Tonia Capuano (International Centre for Ocean Governance)
+
+---
+
+### Renewable Energy
+
+* Samantha Wijewardane (University of South Florida)

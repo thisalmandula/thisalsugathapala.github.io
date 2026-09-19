@@ -1,81 +1,69 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Cavitation
+description: Co-simulation development for improved cavitation predictions in oil-hydraulic systems
+img: assets/img/masters_cavitation/cavitation_6.png
 importance: 2
-category: work
-giscus_comments: true
+category: masters
+giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Cavitation is a severe issue in hydraulic systems; triggering unwanted vibrations, degrading system efficiency, and causing catastrophic structural damage over time. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/masters_cavitation/cavitation_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/masters_cavitation/cavitation_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/masters_cavitation/cavitation_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/masters_cavitation/cavitation_4.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+   Visualization of cavitation damage on hydraulic mining equipment manufactured by Epiroc AB. Components from two distinct, severely impacted locations are showcased, with green arrows pointing to regions of structural damage caused by the phenomenon. The blue circle highlights the undamaged cross-sectional outline of the pipe for comparison.
 </div>
+
+During my masters studies at Linköping University, I was involved in an industrial collaborative project with Epiroc AB to develop multi-scale methods to capture complex cavitation flows inside aging oil-hydraulic systems.
+
+**Team members:** Twan Bakker, Rahul Gudur Suresh, and Aryan Delir
+
+**University supervisors (Linköping University):** Marcus Jansson and Magnus Andersson
+
+**Industry supervisors (Epiroc AB):** Maria Pettersson and Anders Olson
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/masters_cavitation/cavitation_5.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Co-simulation framework for communicating Hopsan and ANSY Fluent targeting improved numerical predictions for water hammer induced cavitation.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+**Key Highlights &amp; Methodology**
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div class="project-highlights">
+  <ul>
+    <li>
+      <strong>Co-Simulation Architecture:</strong> Improvements to a coupled simulation framework combining Hopsan (an open-source hydraulic system simulation tool developed at Linköping University) and ANSYS Fluent.
+    </li>
+    <li>
+      <strong>Experimental Validation:</strong> Validated numerical predictions against experimental pressure measurements collected at three key points along a physical test-rig equipped with a transparent plexiglass tube for visual vapor-formation verification.
+    </li>
+    <li>
+      <strong>Orifice &amp; Flow Analysis:</strong> Evaluated system behavior across four different orifice geometries (2 mm, 3 mm, and 5 mm diameters), achieving strong correlation between numerical model predictions and experimental benchmark data.
+    </li>
+    <li>
+      <strong>Transient &amp; Water Hammer Dynamics:</strong> Analyzed complex cavitating flow behaviors caused by repetitive water hammer phenomena, evaluating how different valve movement profiles and the presence (or absence) of transient vapor bubbles influence pressure distribution during oil recirculation.
+    </li>
+  </ul>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+This work is published as a <a href='https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1651071&dswid=8394'>technical report</a>, and was presented at Svenska Mekanikdagar at Luleå University of Technology (15–16 of June, 2022).

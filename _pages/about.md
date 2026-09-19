@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Candidate at <a href='https://www.chalmers.se/en/persons/thisal/'>Chalmers University of Technology</a>. Gothenburg, Sweden.
+subtitle: PhD Candidate at <a href='https://www.chalmers.se/en/persons/thisal/'>Chalmers University of Technology</a>, Gothenburg, Sweden.
 
 profile:
   align: right

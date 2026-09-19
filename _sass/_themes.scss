@@ -23,3 +23,15 @@ html[data-theme='dark'] {
   --global-theme-color: #0bd61c; /* e.g., Lighter Sage Green */
   --global-hover-color: #22725a; /* Lighter hover color */
 }
+
+
+/* Custom hover glow for monochrome social icons */
+a[title="Instagram"] img {
+  transition: filter 0.3s ease, transform 0.2s ease;
+
+  &:hover {
+    /* Uses your dynamic al-folio theme accent color (Red/Green) as a glow */
+    filter: drop-shadow(0 0 5px var(--global-theme-color));
+    transform: scale(1.1); /* Slight zoom effect */
+  }
+}

@@ -2,7 +2,7 @@
 layout: page
 title: people
 permalink: /people/
-description: Former and current collaborators and research group members.
+description: Current and former collaborators and research group members.
 nav: true
 nav_order: 7
 ---

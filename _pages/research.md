@@ -4,29 +4,191 @@ title: research
 permalink: /research/
 description: An overview of my research interests.
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
-## Research
 
-My research focuses on the numerical modelling of microplastic transport and fate in aquatic environments.
+## stratified flows
 
-### Microplastic transport and fate
+<hr style="margin-left: 0; border: none; border-top: 2px solid var(--global-theme-color); border-radius: 3px;">
 
-My PhD research develops numerical and multi-scale modelling approaches to understand how microplastics are transported and transformed in aquatic environments. The work spans several spatial and temporal scales, from particle-scale interactions with turbulent flows to large-scale transport in coastal and marine environments.
 
-### Particle–turbulence interactions
+<div class="row">
 
-At the microscale, I use Direct Numerical Simulations (DNS) and immersed-boundary methods to investigate particle settling and particle–turbulence interactions. Particular attention is given to the effects of density stratification and turbulent flow on particle settling dynamics.
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/stratified_fluid.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    particle-fluid interactions
+    </div>
+  </div>
 
-### Lagrangian particle tracking
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/stratified_turbulence.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    stratified turbulence
+    </div>
+  </div>
 
-At intermediate scales, I develop Lagrangian particle-tracking models to investigate the transport of microplastics under realistic hydrodynamic conditions. These models incorporate processes such as turbulent mixing, biofouling, and changes in particle density.
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/stratified_collision.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    collision mechanics
+    </div>
+  </div>
 
-### Large-scale marine transport
+</div>
 
-At larger scales, I use ocean circulation and particle-tracking models to investigate microplastic transport in coastal and marine environments. This includes applications of OpenDrift/MPDrift to study particle pathways, beaching, and potential accumulation areas.
+## particle tracking models
 
-### Research applications
+<hr style="margin-left: 0; border: none; border-top: 2px solid var(--global-theme-color); border-radius: 3px;">
 
-The overall goal is to develop modelling tools that can help connect small-scale physical processes with large-scale environmental transport, providing a better understanding of microplastic fate and supporting environmental assessment and management.
+
+<div class="row">
+
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/large_scale.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    large-scale models
+    </div>
+  </div>
+
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/vertical_motion.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    sinking/rising dynamics
+    </div>
+  </div>
+
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/sediment_transport.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    sediment transport
+    </div>
+  </div>
+
+</div>
+
+## environmental and energy sciences
+
+<hr style="margin-left: 0; border: none; border-top: 2px solid var(--global-theme-color); border-radius: 3px;">
+
+
+<div class="row">
+
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/microplastics.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    microplastic pollution
+    </div>
+  </div>
+
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/aggregation.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    aggregation theory
+    </div>
+  </div>
+
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/windturbine.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    rotor aerodynamics
+    </div>
+  </div>
+
+</div>
+
+## applied fluid dynamics (master's degree)
+
+<hr style="margin-left: 0; border: none; border-top: 2px solid var(--global-theme-color); border-radius: 3px;">
+
+
+<div class="row">
+
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/contamination.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    contamination<br>
+    (master's thesis)
+    </div>
+  </div>
+
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/cavitation.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    cavitation<br>
+    (industry project)
+    </div>
+  </div>
+
+  <div class="col-sm mt-3 mt-md-0">
+    {% include figure.liquid
+      loading="eager"
+      path="assets/img/research/formulastudent.png"
+      title="example image"
+      class="img-fluid rounded z-depth-1"
+    %}
+    <div class="caption" style="font-size: 1.5rem; font-weight: 600;">
+    vehicle aerodynamics<br>
+    (formula student)
+    </div>
+  </div>
+
+</div>
+
+

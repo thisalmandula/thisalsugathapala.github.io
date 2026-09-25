@@ -35,3 +35,14 @@ a[title="Instagram"] img {
     transform: scale(1.1); /* Slight zoom effect */
   }
 }
+
+.projects {
+  h2.category {
+    text-align: left !important;
+    width: 100%;
+    border-bottom: 1px solid var(--global-theme-color) !important;
+    padding-bottom: 0.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+  }
+}

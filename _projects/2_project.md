@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cavitation
+title: cavitation
 description: Co-simulation development for improved cavitation predictions in oil-hydraulic systems
 img: assets/img/masters_cavitation/cavitation_6.png
 importance: 2
@@ -66,4 +66,4 @@ During my masters studies at Linköping University, I was involved in an industr
   </ul>
 </div>
 
-This work is published as a <a href='https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1651071&dswid=8394'>technical report</a>, and was presented at Svenska Mekanikdagar at Luleå University of Technology (15–16 of June, 2022).
+This work is published as a <a href='https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1651071&dswid=8394'>technical report</a>, and was presented at <a href='https://nkmek.wordpress.com/about/'>Svenska Mekanikdagar</a> at Luleå University of Technology (15–16 of June, 2022).

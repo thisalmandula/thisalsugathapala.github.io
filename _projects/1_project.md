@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contamination
+title: contamination
 description: Simulation strategies for improved contamination modeling of liquid dynamics on automotive surfaces
 img: assets/img/masters_thesis/masters_thesis_1.jpg
 importance: 1
@@ -24,14 +24,14 @@ Advanced Driver Assistance Systems (ADAS), including LiDAR, radar, and optical c
 
 <div class="row">
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/droplet.gif" title="Cavitation Flow Simulation" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/masters_thesis/tyre_cfd.gif" title="front wheel induced contamination cfd" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/publication_preview/droplet2.gif" title="Vapor Bubble Dynamics" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/masters_thesis/tyre_exp.gif" title="front wheel induced contamination expeirments" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Transient cavitation bubble formation and pressure wave propagation during simulated water hammer cycles.
+    Visualization of front wheel induced contamination modeling and experiments carried out by Petter Ekman's research group.
 </div>
 
 For my master’s thesis, I joined Petter Ekman’s research group developing numerical and experimental methods to improve the modelling and understanding of front-wheel-induced contamination and its impact on vehicle sensors. A key challenge in contamination modelling is understanding how different automotive surfaces, such as glass, plastic, rubber, and painted metal, affect the way water moves and forms liquid films. In this project, we developed and validated a numerical approach in STAR-CCM+ to better capture these surface effects and achieve good agreement between simulations and experimental measurements across a range of automotive materials.

@@ -8,8 +8,10 @@ category: phd
 giscus_comments: false
 ---
 
+<div class="justified-text">
+<p>
 Plastic pollution is a growing environmental challenge, with microplastics now found everywhere, from the world’s oceans to rivers, estuaries, and fjords. Once released into the environment, these particles are essentially irretrievable and are transported by complex oceanic and coastal flows while undergoing physical and biological processes that can substantially alter their behaviour. Predicting where microplastics travel, whether they remain suspended, sink, or accumulate therefore requires models capable of representing processes occurring across a wide range of spatial and temporal scales.
-
+</p>
 
 <div class="row">
     <div class="col-md-4 mt-3 mt-md-0">
@@ -26,17 +28,24 @@ Plastic pollution is a growing environmental challenge, with microplastics now f
     Visualization of the numerical methods I develop, including fully resolved particle–fluid simulations in stratified flows (left), pseudo-spectral simulations of stratified turbulence (middle), and large-scale particle-tracking models (right).
 </div>
 
+<p>
 For my PhD research at Chalmers University of Technology, I take an interdisciplinary approach to addressing knowledge gaps in our understanding of the fate of microplastics, combining expertise in fluid dynamics, environmental science, and physical oceanography. I develop theoretical, numerical and multiscale modelling approaches to better understand the transport and fate of microplastics in aquatic environments. My work connects fundamental knowledge of particle–flow interactions with large-scale environmental transport to help explain real-world observations of microplastic accumulation patterns.
+</p>
+</div>
 
-**Main supervisor (division of fluid mechanics):** Gaetano Sardina
+**Main supervisor (Division of Fluid Mechanics):** Gaetano Sardina
 
-**Co-supervisor (division of marititime environmental science):** Ida-Maja Hasselöv
+**Co-supervisor (Division of Maritime Environmental Science):** Ida-Maja Hasselöv
 
-**Co-supervisor (division of marine technology):** Rickard Bensow
+**Co-supervisor (Division of Marine Technology):** Rickard Bensow
 
+<div class="justified-text">
+<p>
 This project is carried out in close collaboration with the Swedish Meteorological and Hydrological Institute (SMHI), Kristineberg Marine Research Station, and several international research partners.
+</p>
+</div>
 
-**Key Highlights &amp; Methodology**
+## Key Highlights &amp; Methodology
 
 <div class="project-highlights">
   <ul>

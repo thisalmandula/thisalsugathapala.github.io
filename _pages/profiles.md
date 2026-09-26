@@ -4,7 +4,7 @@ title: people
 permalink: /people/
 description: Current and former collaborators and research group members.
 nav: true
-nav_order: 6
+nav_order: 8
 ---
 
 ### Fluid Dynamics

@@ -51,3 +51,12 @@ a[title="Instagram"] img {
   border-bottom: 3px solid var(--global-theme-color);
   padding-bottom: 8px;
 }
+
+.justified-text {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.project-highlights li {
+  text-align: justify;
+}

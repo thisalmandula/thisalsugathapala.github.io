@@ -68,11 +68,11 @@ cv:
         start_date: 2021
         end_date: 2022
 
-      - company: LiU Formula Student Team
-        position: CFD Engineer
-        location: Linköping, Sweden
-        start_date: 2021
-        end_date: 2022
+    #  - company: LiU Formula Student Team
+    #    position: CFD Engineer
+    #    location: Linköping, Sweden
+    #    start_date: 2021
+    #    end_date: 2022
 
       - company: Sri Lanka Institute of Information Technology
         position: Teaching and Research Assistant
@@ -80,17 +80,17 @@ cv:
         start_date: 2019
         end_date: 2020 
 
-      - company: Sri Lanka Sustainable Energy Authority
-        position: Mechanical Engineering Intern
-        location: Colombo, Sri Lanka
-        start_date: 2017
-        end_date: 2018 
+    #  - company: Sri Lanka Sustainable Energy Authority
+    #    position: Mechanical Engineering Intern
+    #    location: Colombo, Sri Lanka
+    #    start_date: 2017
+    #    end_date: 2018 
  
-      - company: OREL Corporation
-        position: Mechanical Engineering Intern
-        location: Meegoda, Sri Lanka
-        start_date: 2018
-        end_date: 2019  
+    #  - company: OREL Corporation
+    #    position: Mechanical Engineering Intern
+    #    location: Meegoda, Sri Lanka
+    #    start_date: 2018
+    #    end_date: 2019  
 
 
     Awards:

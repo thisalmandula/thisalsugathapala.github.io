@@ -8,62 +8,56 @@ category: phd
 giscus_comments: false
 ---
 
-Cavitation is a severe issue in hydraulic systems; triggering unwanted vibrations, degrading system efficiency, and causing catastrophic structural damage over time. 
-
+Plastic pollution is a growing environmental challenge, with microplastics now found everywhere, from the world’s oceans to rivers, estuaries, and fjords. Once released into the environment, these particles are essentially irretrievable and are transported by complex oceanic and coastal flows while undergoing physical and biological processes that can substantially alter their behaviour. Predicting where microplastics travel, whether they remain suspended, sink, or accumulate therefore requires models capable of representing processes occurring across a wide range of spatial and temporal scales.
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/masters_cavitation/cavitation_2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-md-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/phd/phd_ibm.gif" title="front wheel induced contamination cfd" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/masters_cavitation/cavitation_1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-md-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/phd/phd_psm.gif" title="front wheel induced contamination expeirments" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/masters_cavitation/cavitation_3.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/masters_cavitation/cavitation_4.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-md-4 mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/phd/phd_lsm.png" title="front wheel induced contamination expeirments" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-   Visualization of cavitation damage on hydraulic mining equipment manufactured by Epiroc AB. Components from two distinct, severely impacted locations are showcased, with green arrows pointing to regions of structural damage caused by the phenomenon. The blue circle highlights the undamaged cross-sectional outline of the pipe for comparison.
+    Visualization of the numerical methods I develop, including fully resolved particle–fluid simulations in stratified flows (left), pseudo-spectral simulations of stratified turbulence (middle), and large-scale particle-tracking models (right).
 </div>
 
-During my masters studies at Linköping University, I was involved in an industrial collaborative project with Epiroc AB to develop multi-scale methods to capture complex cavitation flows inside aging oil-hydraulic systems.
+For my PhD research at Chalmers University of Technology, I take an interdisciplinary approach to addressing knowledge gaps in our understanding of the fate of microplastics, combining expertise in fluid dynamics, environmental science, and physical oceanography. I develop theoretical, numerical and multiscale modelling approaches to better understand the transport and fate of microplastics in aquatic environments. My work connects fundamental knowledge of particle–flow interactions with large-scale environmental transport to help explain real-world observations of microplastic accumulation patterns.
 
-**Team members:** Twan Bakker, Rahul Gudur Suresh, and Aryan Delir
+**Main supervisor (division of fluid mechanics):** Gaetano Sardina
 
-**University supervisors (Linköping University):** Marcus Jansson and Magnus Andersson
+**Co-supervisor (division of marititime environmental science):** Ida-Maja Hasselöv
 
-**Industry supervisors (Epiroc AB):** Maria Pettersson and Anders Olson
+**Co-supervisor (division of marine technology):** Rickard Bensow
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/masters_cavitation/cavitation_5.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Co-simulation framework for communicating Hopsan and ANSY Fluent targeting improved numerical predictions for water hammer induced cavitation.
-</div>
+This project is carried out in close collaboration with the Swedish Meteorological and Hydrological Institute (SMHI), Kristineberg Marine Research Station, and several international research partners.
 
 **Key Highlights &amp; Methodology**
 
 <div class="project-highlights">
   <ul>
     <li>
-      <strong>Co-Simulation Architecture:</strong> Improvements to a coupled simulation framework combining Hopsan (an open-source hydraulic system simulation tool developed at Linköping University) and ANSYS Fluent.
+      <strong>Biofouling and Particle Dynamics:</strong>
+      Investigate how biological growth on microplastic surfaces alters particle size and density, influencing settling velocity and vertical transport in turbulent ocean flows.
     </li>
+
     <li>
-      <strong>Experimental Validation:</strong> Validated numerical predictions against experimental pressure measurements collected at three key points along a physical test-rig equipped with a transparent plexiglass tube for visual vapor-formation verification.
+      <strong>Lagrangian Particle Tracking:</strong>
+      Develop particle-tracking models that incorporate physical and biological processes, including turbulent mixing, biofouling, sediment transport, particle settling, and evolving particle properties, to simulate microplastic trajectories under realistic ocean conditions.
     </li>
+
     <li>
-      <strong>Orifice &amp; Flow Analysis:</strong> Evaluated system behavior across four different orifice geometries (2 mm, 3 mm, and 5 mm diameters), achieving strong correlation between numerical model predictions and experimental benchmark data.
+      <strong>Stratified Flows:</strong>
+      Investigate particle dynamics in stratified turbulent flows using theoretical and numerical methods.
     </li>
+
     <li>
-      <strong>Transient &amp; Water Hammer Dynamics:</strong> Analyzed complex cavitating flow behaviors caused by repetitive water hammer phenomena, evaluating how different valve movement profiles and the presence (or absence) of transient vapor bubbles influence pressure distribution during oil recirculation.
+      <strong>Collision Mechanics and Aggregation Theory:</strong>
+      Develop theoretical and numerical frameworks to study particle settling, collisions, and aggregation in stratified turbulence.
     </li>
   </ul>
 </div>
-
-This work is published as a <a href='https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1651071&dswid=8394'>technical report</a>, and was presented at <a href='https://nkmek.wordpress.com/about/'>Svenska Mekanikdagar</a> at Luleå University of Technology (15–16 of June, 2022).

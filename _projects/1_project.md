@@ -24,10 +24,26 @@ Advanced Driver Assistance Systems (ADAS), including LiDAR, radar, and optical c
 
 <div class="row">
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/masters_thesis/tyre_cfd.gif" title="front wheel induced contamination cfd" class="img-fluid rounded z-depth-1" %}
+    <video
+        class="img-fluid rounded z-depth-1"
+        autoplay
+        loop
+        muted
+        playsinline
+        title="Front wheel induced contamination cfd">
+        <source src="{{ 'assets/img/masters_thesis/tyre_cfd.mp4' | relative_url }}" type="video/mp4">
+    </video>
     </div>
     <div class="col-md-6 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/masters_thesis/tyre_exp.gif" title="front wheel induced contamination expeirments" class="img-fluid rounded z-depth-1" %}
+    <video
+        class="img-fluid rounded z-depth-1"
+        autoplay
+        loop
+        muted
+        playsinline
+        title="Front wheel induced contamination experiments">
+        <source src="{{ 'assets/img/masters_thesis/tyre_exp.mp4' | relative_url }}" type="video/mp4">
+    </video>
     </div>
 </div>
 <div class="caption">

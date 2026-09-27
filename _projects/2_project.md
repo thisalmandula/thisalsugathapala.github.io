@@ -7,11 +7,9 @@ importance: 2
 category: masters
 giscus_comments: false
 ---
-<div class="justified-text">
-<p>
+
 Cavitation is a severe issue in hydraulic systems; triggering unwanted vibrations, degrading system efficiency, and causing catastrophic structural damage over time. 
-</p>
-</div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -31,11 +29,8 @@ Cavitation is a severe issue in hydraulic systems; triggering unwanted vibration
    Visualization of cavitation damage on hydraulic mining equipment manufactured by Epiroc AB. Components from two distinct, severely impacted locations are showcased, with green arrows pointing to regions of structural damage caused by the phenomenon. The blue circle highlights the undamaged cross-sectional outline of the pipe for comparison.
 </div>
 
-<div class="justified-text">
-<p>
+
 During my masters studies at Linköping University, I was involved in an industrial collaborative project with Epiroc AB to develop multi-scale methods to capture complex cavitation flows inside aging oil-hydraulic systems.
-</p>
-</div>
 
 **Team members:** Twan Bakker, Rahul Gudur Suresh, and Aryan Delir
 

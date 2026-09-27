@@ -7,16 +7,13 @@ tags: communication environmental-science events
 categories: science
 thumbnail: assets/img/blog/Cover.png
 ---
-<div class="justified-text">
-<p>
+
 One aspect of research that I have grown to really enjoy is science communication. I strongly believe that doing research is only part of our responsibility as researchers; learning how to communicate what we discover, why it matters, and how it can contribute to society is just as important.
-</p>
-<p>
+
 That was why I decided to take part in the Gothenburg qualifier of <a href='https://forskargrandprix.se/'>Forskar Grand Prix</a>, a competition where researchers are challenged to explain their research to a general audience in just four minutes.
-</p>
-<p>
+
 My presentation was about microplastic pollution and the work we are doing to understand where these tiny particles eventually end up in the ocean. Taking **second place in the Gothenburg competition, with a score of 14/15 from the judges,** was a wonderful bonus, but what I valued most was the opportunity to step outside the usual academic setting and learn how to tell the story of my research to people of all ages, from curious kids to older generations, regardless of their scientific background.
-</p>
+
 
 
 <div style="position: relative; width: 100%; padding-top: 56.25%; margin: 2rem 0;">
@@ -37,10 +34,6 @@ My presentation was about microplastic pollution and the work we are doing to un
   </iframe>
 </div>
 
-<div class="caption">
   My popular science presentation at Forskar Grand Prix 2026 in Gothenburg titled: The Case of the Missing Plastic.
-</div>
-<p>
+
 This is something I want to keep getting better at. Fluid mechanics has a beautiful intersection of science and art that I think is still underutilized in the broader fluid mechanics community. One day, I hope to become an expert in my field who can also step onto a stage, share that beauty with people of all ages, and use it to bring science, especially fluid mechanics, closer to society.
-</p>
-</div>

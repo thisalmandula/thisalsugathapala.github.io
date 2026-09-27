@@ -6,6 +6,7 @@ description: A field expedition aboard R/V Skagerak to investigate microplastic 
 tags: environmental-science hands-on
 categories: research
 thumbnail: assets/img/blog/rvskagerak.webp
+
 ---
 
 Most of my research on microplastics happens either behind a computer or with a pen and a piece of paper. I spend a lot of time developing theoretical models, working through equations, writing code, and running numerical simulations to understand the fate of tiny plastic particles in the ocean. But every particle trajectory in a model is ultimately an attempt to describe something happening in the real ocean.
@@ -16,7 +17,7 @@ In November 2024, I had the opportunity to step away from the simulations and jo
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid
            loading="eager"
-           path="assets/img/blog/rvskagerak.png"
+           path="assets/img/blog/rvskagerak.webp"
            class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -112,3 +113,5 @@ My role in this research is largely on the theoretical and numerical side. I dev
 Field observations and numerical models therefore give us different pieces of the same problem. The samples tell us what is actually present in the environment. The models allow us to explore the physical processes and transport pathways that could have produced those patterns.
 
 After a fantastic expedition aboard R/V Skagerak, I eventually went back to my office with a bucket full of ideas, happy to return to my equations and simulations, but now with a completely different perspective on how theoretical, numerical, and field work can come together to understand the same environmental problem.
+
+Head over to this article from the University of Gothenburg to learn more about <a href='https://www.gu.se/nyheter/sa-kan-stenungsunds-plastindustri-sparas-i-havsbotten'>tracing Stenungsund's plastics industry</a>.

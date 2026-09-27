@@ -23,7 +23,7 @@ My main responsibility was the design and optimization of the car's aerodynamic 
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid
            loading="eager"
-           path="assets/img/blog/fs2.png"
+           path="assets/img/blog/fs2.webp"
            class="img-fluid rounded z-depth-1"
            zoomable=true %}
     </div>

@@ -5,7 +5,7 @@ date: 2025-02-12
 description: A field expedition aboard R/V Skagerak to investigate microplastic pollution around Stenungsund and connect field observations with numerical modelling.
 tags: environmental-science hands-on
 categories: research
-thumbnail: assets/img/blog/rvskagerak.png
+thumbnail: assets/img/blog/rvskagerak.webp
 ---
 
 Most of my research on microplastics happens either behind a computer or with a pen and a piece of paper. I spend a lot of time developing theoretical models, working through equations, writing code, and running numerical simulations to understand the fate of tiny plastic particles in the ocean. But every particle trajectory in a model is ultimately an attempt to describe something happening in the real ocean.
@@ -45,7 +45,7 @@ I took turns helping with this process. Rather than simply scooping sediment out
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid
-           path="assets/img/blog/expedition1.jpg"
+           path="assets/img/blog/expedition1.webp"
            class="img-fluid rounded z-depth-1"
            zoomable=true %}
     </div>
@@ -57,7 +57,7 @@ I took turns helping with this process. Rather than simply scooping sediment out
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid
-           path="assets/img/blog/expedition3.jpg"
+           path="assets/img/blog/expedition3.webp"
            class="img-fluid rounded z-depth-1"
            zoomable=true %}
     </div>
@@ -66,19 +66,19 @@ I took turns helping with this process. Rather than simply scooping sediment out
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid
-           path="assets/img/blog/expedition4.jpg"
+           path="assets/img/blog/expedition4.webp"
            class="img-fluid rounded z-depth-1"
            zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid
-           path="assets/img/blog/expedition5.jpg"
+           path="assets/img/blog/expedition5.webp"
            class="img-fluid rounded z-depth-1"
            zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid
-           path="assets/img/blog/expedition6.jpg"
+           path="assets/img/blog/expedition6.webp"
            class="img-fluid rounded z-depth-1"
            zoomable=true %}
     </div>

@@ -2,7 +2,7 @@
 layout: page
 title: microplastics
 description: Development of multi-scale models for understanding the transport and fate microplastics in the ocean
-img: assets/img/research/phd.png
+img: assets/img/research/phd.webp
 importance: 2
 category: phd
 giscus_comments: false
@@ -19,7 +19,7 @@ Plastic pollution is a growing environmental challenge, with microplastics now f
         {% include figure.liquid loading="eager" path="assets/img/phd/phd_psm.gif" title="front wheel induced contamination expeirments" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-md-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/phd/phd_lsm.png" title="front wheel induced contamination expeirments" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/phd/phd_lsm.webp" title="front wheel induced contamination expeirments" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

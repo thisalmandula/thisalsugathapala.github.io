@@ -5,7 +5,7 @@ date: 2025-06-08
 description: A sneak peak into the world of multiphase flow research, education, and events at Chalmers University of Technology.
 tags: fluid-dynamics communication
 categories: academia
-thumbnail: assets/img/blog/multiphase.png
+thumbnail: assets/img/blog/multiphase.webp
 ---
 
 I am a joint PhD student across three divisions at Chalmers: Fluid Dynamics, Maritime Environmental Sciences, and Maritime Studies. Before I even started my PhD, I was given the choice of which division I wanted to be based in. With my love for fluid mechanics, the decision was pretty obvious.

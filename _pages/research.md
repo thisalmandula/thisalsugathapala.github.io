@@ -30,7 +30,7 @@ nav_order: 3
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/research/stratified_turbulence.png"
+      path="assets/img/research/stratified_turbulence.webp"
       title="example image"
       class="img-fluid rounded z-depth-1"
     %}
@@ -42,7 +42,7 @@ nav_order: 3
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/research/stratified_collision.png"
+      path="assets/img/research/stratified_collision.webp"
       title="example image"
       class="img-fluid rounded z-depth-1"
     %}
@@ -63,7 +63,7 @@ nav_order: 3
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/research/large_scale.png"
+      path="assets/img/research/large_scale.webp"
       title="example image"
       class="img-fluid rounded z-depth-1"
     %}
@@ -153,7 +153,7 @@ nav_order: 3
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/research/contamination.png"
+      path="assets/img/research/contamination.webp"
       title="example image"
       class="img-fluid rounded z-depth-1"
     %}
@@ -179,7 +179,7 @@ nav_order: 3
   <div class="col-sm mt-3 mt-md-0">
     {% include figure.liquid
       loading="eager"
-      path="assets/img/research/formulastudent.png"
+      path="assets/img/research/formulastudent.webp"
       title="example image"
       class="img-fluid rounded z-depth-1"
     %}

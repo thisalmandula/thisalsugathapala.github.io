@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave an oral presentation at the <a href='https://www.chalmers.se/en/current/calendar/4th-shipping-and-environment-conference/'>4th Shipping and Environment Conference (SE4)</a>.
+I gave an oral presentation at the <a href='https://www.chalmers.se/en/current/calendar/4th-shipping-and-environment-conference/'>4th Shipping and Environment Conference (SE4)</a> on modeling the fate of microplastics discharged from shipping in the Orust-Tjörn fjords.

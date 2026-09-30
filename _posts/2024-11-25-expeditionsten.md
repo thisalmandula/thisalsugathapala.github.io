@@ -96,7 +96,32 @@ The cruise also gave me the opportunity to learn about other oceanographic measu
 ## Local pollutant sources
 
 
-Stenungsund is particularly interesting because of its long history of plastics production, but industrial plastic pellets are only one part of the microplastic pollution found in coastal environments. My collaborators have investigated several other local sources, including particles associated with tyre wear, municipal wastewater effluent,  boat and ship paints, and grey water from marine vessels.
+Stenungsund is particularly interesting because of its long history of plastics production, but industrial plastic pellets are only one part of the microplastic pollution found in coastal environments. My collaborators have investigated several other local sources, including particles associated with tyre wear, municipal wastewater effluent,  boat and ship paints, and grey water from marine vessels. Some of these microplastics, as observed under a microscope, are shown below.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid
+           path="assets/img/blog/mp1.png"
+           class="img-fluid rounded z-depth-1"
+           zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid
+           path="assets/img/blog/mp2.png"
+           class="img-fluid rounded z-depth-1"
+           zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid
+           path="assets/img/blog/mp3.png"
+           class="img-fluid rounded z-depth-1"
+           zoomable=true %}
+    </div>
+</div>
+
+<div class="caption">
+    Microscopic visualization of different types of microplastics found in the ocean. Images courtesy of Karin Mattsson.
+</div>
 
 This makes the fjord system a complicated but fascinating place to study. Once these different particles enter the water, their eventual fate depends on the physical and biological processes acting on them as they move through the environment.
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Upcoming**: I am giving an oral presentation at the <a href='https://ge.iitm.ac.in/icnmmf-6'>6th International Conference on Numerical Methods in Multiphase Flows (ICNMMF-6)</a>, held in IIT Madras, India.
+**Upcoming**: I am giving an oral presentation at the <a href='https://ge.iitm.ac.in/icnmmf-6'>6th International Conference on Numerical Methods in Multiphase Flows (ICNMMF-6)</a>, held in IIT Madras, India. My presentation will be on multiscale methods towards development of aggregation theory in stratified turbulence.

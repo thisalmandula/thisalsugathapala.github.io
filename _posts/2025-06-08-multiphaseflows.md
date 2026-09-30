@@ -34,7 +34,7 @@ You can now find this poster, shown below, at the entrance to the Division of Fl
 
 ## So, what is multiphase flow?
 
-At its simplest, a multiphase flow is a flow involving more than one phase—for example, particles suspended in a liquid, bubbles moving through a liquid, droplets carried by a gas, or systems involving phase change. That simple definition, however, leads to an enormous range of problems in both nature and engineering.
+At its simplest, a multiphase flow is a flow involving more than one phase. For example, particles suspended in a liquid, bubbles moving through a liquid, droplets carried by a gas, or systems involving phase change. That simple definition, however, leads to an enormous range of problems in both nature and engineering.
 
 ## The wider multiphase flow community
 

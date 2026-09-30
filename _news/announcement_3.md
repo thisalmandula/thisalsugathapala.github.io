@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Upcoming**: I am giving an oral presentation at the <a href='https://ge.iitm.ac.in/icnmmf-6'>Autumn SIAMUF (Swedish Industrial Association for Multiphase Flow) Seminar</a>.
+**Upcoming**: I am giving an oral presentation at the <a href='https://ge.iitm.ac.in/icnmmf-6'>Autumn SIAMUF (Swedish Industrial Association for Multiphase Flow) Seminar</a> on advancements in collision and aggregation theory in stratified turbulence.

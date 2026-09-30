@@ -137,7 +137,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Origin Unknown # blog_name will be displayed in your blog page
-blog_description: Welcome to my personal blog
+blog_description: Making science accessible and sharing my journey through academia
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave an oral presentation at <a href='https://shf.se/en/havsforskningsdagarna/'>Marine Research Days</a> organized by the Swedish Society for Marine Sciences.
+I gave an oral presentation at <a href='https://shf.se/en/havsforskningsdagarna/'>Marine Research Days</a> organized by the Swedish Society for Marine Sciences, titled "Using advanced numerical methods to explain observations of microplastics accumulation patterns in complex marine environments."

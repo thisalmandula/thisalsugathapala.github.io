@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I attended and gave an oral presentation at the <a href='https://www.icmf2025.com/'> 12th International Conference on Multiphase Flow</a> held in Tolouse, France.
+I gave an oral presentation at the <a href='https://www.icmf2025.com/'> 12th International Conference on Multiphase Flow</a> held in Tolouse, France. My presentation was on particles settling in turbulent stratified flows: a multiscale approach.
 

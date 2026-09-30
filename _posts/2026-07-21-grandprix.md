@@ -2,7 +2,7 @@
 layout: post
 title: The Case of the Missing Plastic
 date: 2026-07-21
-description: My experience communicating microplastic research at the Gothenburg qualifier of Forskar Grand Prix.
+description: Exploring the art of communicating research through science and creativity
 tags: communication environmental-science events
 categories: science
 thumbnail: assets/img/blog/Cover.png
@@ -36,4 +36,4 @@ My presentation was about microplastic pollution and the work we are doing to un
 
   My popular science presentation at Forskar Grand Prix 2026 in Gothenburg titled: The Case of the Missing Plastic.
 
-This is something I want to keep getting better at. Fluid mechanics has a beautiful intersection of science and art that I think is still underutilized in the broader fluid mechanics community. One day, I hope to become an expert in my field who can also step onto a stage, share that beauty with people of all ages, and use it to bring science, especially fluid mechanics, closer to society.
+This is something I want to keep getting better at. Fluid mechanics has a beautiful intersection of science and art that I think is still underutilized in the broader fluid mechanics community. One day, I hope to become an expert in my field who can also step onto a stage, share that beauty with people of all ages, and bring science, especially fluid mechanics, closer to society.
